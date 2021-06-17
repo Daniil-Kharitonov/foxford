@@ -1,3 +1,3 @@
 print('hello')
-if true:
+if True:
     pass
